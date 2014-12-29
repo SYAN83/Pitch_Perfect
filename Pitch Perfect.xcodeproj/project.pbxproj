@@ -14,6 +14,7 @@
 		82D729751A50EA960072FE89 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82D729731A50EA960072FE89 /* LaunchScreen.xib */; };
 		82D729811A50EA960072FE89 /* Pitch_PerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82D729801A50EA960072FE89 /* Pitch_PerfectTests.swift */; };
 		82D7298B1A511A410072FE89 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82D7298A1A511A410072FE89 /* PlaySoundsViewController.swift */; };
+		82D7298D1A5137CE0072FE89 /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 82D7298C1A5137CE0072FE89 /* movie_quote.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		82D7297F1A50EA960072FE89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82D729801A50EA960072FE89 /* Pitch_PerfectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pitch_PerfectTests.swift; sourceTree = "<group>"; };
 		82D7298A1A511A410072FE89 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		82D7298C1A5137CE0072FE89 /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = movie_quote.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		82D729681A50EA960072FE89 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				82D7298C1A5137CE0072FE89 /* movie_quote.mp3 */,
 				82D729691A50EA960072FE89 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -197,6 +200,7 @@
 			files = (
 				82D729701A50EA960072FE89 /* Main.storyboard in Resources */,
 				82D729751A50EA960072FE89 /* LaunchScreen.xib in Resources */,
+				82D7298D1A5137CE0072FE89 /* movie_quote.mp3 in Resources */,
 				82D729721A50EA960072FE89 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
